@@ -1,1 +1,1 @@
-console.log('part1 : ceasefore');
+console.log('part1 : ceasefire');
